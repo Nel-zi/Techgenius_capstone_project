@@ -10,3 +10,9 @@ psycopg2
 nltk
 pattern
 textblob
+
+apache-airflow
+azure-storage-blob
+
+# for azure synapse
+# pyodbc sqlalchemy
